@@ -1,10 +1,10 @@
-# Simple Craft Mod
-![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/erha134/SimpleCraft-1.16/build.yml?branch=1.19)
-![GitHub LICENSE](https://img.shields.io/github/license/erha134/SimpleCraft-1.16)
-![GitHub issues](https://img.shields.io/github/issues/erha134/SimpleCraft-1.16)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/erha134/SimpleCraft-1.16)
+# CaiDanPlusPlus Mod
+![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/erha134/CaiDanPlusPlus/build.yml?branch=fabric/1.20.x)
+![GitHub LICENSE](https://img.shields.io/github/license/erha134/CaiDanPlusPlus)
+![GitHub issues](https://img.shields.io/github/issues/erha134/CaiDanPlusPlus)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/erha134/CaiDanPlusPlus)
 
-![GitHub all releases](https://img.shields.io/github/downloads/erha134/SimpleCraft-1.16/total?label=Github%20Release%20Downloads)
+![GitHub all releases](https://img.shields.io/github/downloads/erha134/CaiDanPlusPlus/total?label=Github%20Release%20Downloads)
 
 ## 版本支持
 Forge：计划中
